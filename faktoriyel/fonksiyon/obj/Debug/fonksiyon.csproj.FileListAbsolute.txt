@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\fonksiyon\fonksiyon\bin\Debug\fonksiyon.exe.config
+C:\Users\pc\source\repos\fonksiyon\fonksiyon\bin\Debug\fonksiyon.exe
+C:\Users\pc\source\repos\fonksiyon\fonksiyon\bin\Debug\fonksiyon.pdb
+C:\Users\pc\source\repos\fonksiyon\fonksiyon\obj\Debug\fonksiyon.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\fonksiyon\fonksiyon\obj\Debug\fonksiyon.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\fonksiyon\fonksiyon\obj\Debug\fonksiyon.exe
+C:\Users\pc\source\repos\fonksiyon\fonksiyon\obj\Debug\fonksiyon.pdb
